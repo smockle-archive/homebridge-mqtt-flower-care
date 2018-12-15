@@ -1,4 +1,4 @@
-# homebridge-mqtt-flower-care
+# homebridge-mqtt-flower-care 🌱
 
 ## About
 
