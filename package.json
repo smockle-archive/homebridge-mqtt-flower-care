@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node get-data.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/smockle/homebridge-mqtt-flower-care#readme",
   "dependencies": {
     "aws-iot-device-sdk": "^2.2.1",
-    "dotenv-safe": "^6.1.0"
+    "dotenv-safe": "^6.1.0",
+    "fakegato-history": "^0.5.3",
+    "lodash": "^4.17.11"
   }
 }
